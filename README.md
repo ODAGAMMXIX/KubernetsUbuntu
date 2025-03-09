@@ -1,4 +1,4 @@
-# KubernetsUbuntu
+# KubernetsUbuntu 24.04 (noble)
 Install Basic Version And C what happens
 https://ubuntu.com/kubernetes/install
 
